@@ -9,7 +9,7 @@ try:
 except:
     print("Import Error. Please 'pip install happytransformer' and try again.")
     input("> ")
-print("SCANNING..PLEASE ENTER TEXT TO GENERATOR.BELLA_AI BUILD 52421") # CHECKS GEN
+print("CHECKING AI") # CHECKS GEN
 happy_gen = HappyGeneration("GPT-NEO", "EleutherAI/gpt-neo-1.3B") # GETS AI
 # Checks generator
 result = happy_gen.generate_text(text)

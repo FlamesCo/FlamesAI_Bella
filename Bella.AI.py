@@ -1,7 +1,6 @@
 print("Welcome to BELLA.AI  - Flamestopian AI Program")
  # WELCOME MESSAGE
 print("Welcome")  #  PRINTS WELCOME 
-ID = input("Please input your ID") # ID MESSAGE
 text = input("Enter text >")
 print("BELLA.AI Checking HAP-GEN 1.0")
 try:

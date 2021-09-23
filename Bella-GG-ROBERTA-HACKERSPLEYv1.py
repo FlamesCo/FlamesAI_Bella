@@ -9,4 +9,8 @@ def query(payload):
 	return response.json()
 
 output = query({"inputs": "Scanning all known exploits of hardware devices and software in the known history of the internet."})
+
+print("Research edited!"
+      print(output)
+      ## THATS ALL!
 print("You may now exit)")

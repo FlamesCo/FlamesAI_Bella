@@ -3,7 +3,7 @@ import requests
 print("Hello, <3 I am your hacker girl Bella. Enjoy ho ho ho.")
 API_URL = input("Enter api key")
 print("Continue..API USER", API_URL)
-headers = {"Authorization": "Bearer api_sUELMXKqdOCuyNWcNJnfOxiodbzBNLYMjE"}
+headers = {"Authorization": # # ENTERT API KEY HERE"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)

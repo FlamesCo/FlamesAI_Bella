@@ -2,7 +2,7 @@
 import requests'
 print("Hello, <3 I am your hacker girl Bella. Enjoy ho ho ho.")
 API_URL = ""
-headers = {"Authorization": "Bearer api_sUELMXKqdOCuyNWcNJnfOxiodbzBNLYMjE"}
+headers = {"Authorization": "Bearer api_s## { Enter api key here } "}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)

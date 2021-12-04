@@ -1,5 +1,5 @@
 # FlamesAI_Bella
-The closets thing we will get to GPT4 [For potato computers]
+The newest thing we will get to GPT4 [For potato computers]
 -- COPY OF GPT-2/GPT-X REPLICA FOR DISCORD WORK IN PROGRSES
 Copyright <2021> <FLAMES CO. ENTERPRISES>
 Version 2, June 1991
